@@ -50,4 +50,7 @@ areas of risk and opporunity
 
 # Conculsion 
   AI adoption is underway which iplementation has not yet delivered meaningful productivity . ALos the dataset does captures the indictor which lacks workflow specific markers and limitimg the ability to calculate real ROI and Real AI impact on employee and it's organistaion 
+
+# AUTHOR 
+  Devangi Sharma
     
