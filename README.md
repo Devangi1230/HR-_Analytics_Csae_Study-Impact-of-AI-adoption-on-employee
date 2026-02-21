@@ -1,4 +1,4 @@
-# HR-_Analytics_Csae_Study-Impact-of-AI-adoption-on-employee
+# HR-_Analytics_Case_Study-Impact-of-AI-adoption-on-employee
 
 # Project Overview 
 This project analyze how AI adoption influences employee productivity , performance, satisfaction and overall workplace well being. The goal is to understand how can HR guide workforce planning, upskilling strategies and employee engagment policies in AI enabled Workplace 
